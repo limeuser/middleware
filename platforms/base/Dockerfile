@@ -1,0 +1,1 @@
+FROM ibm-semeru-runtimes:open-8u362-b09-jdk
